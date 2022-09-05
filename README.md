@@ -1,4 +1,4 @@
-# Multiple-Camaras-Checking
+# Multiple-Cameras-Checking
 To check the multiple cameras working or not.
 1. In Deep Learning we use multiple cameras to access feed.
 2. Before accessing the feed from the RTSP cameras, we can check if they are working or not.
